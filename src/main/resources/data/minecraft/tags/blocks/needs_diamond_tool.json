@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "chaospersists:oretitanium",
+    "chaospersists:oreuranium",
+    "chaospersists:blocktitanium",
+    "chaospersists:blockuranium",
+    "chaospersists:crystalcrystal",
+    "chaospersists:tigerseye",
+    "chaospersists:oretitaniumdeepslate",
+    "chaospersists:oreuraniumdeepslate"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "chaospersists:lava_pocket_ore",
+  "config": {
+    "state": {
+      "Name": "chaospersists:oreruby"
+    },
+    "targets": [
+      "minecraft:stone_ore_replaceables",
+      "minecraft:deepslate_ore_replaceables"
+    ],
+    "stats_key": "Ruby",
+    "deepslate_state": {
+      "Name": "chaospersists:orerubydeepslate"
+    }
+  }
+}

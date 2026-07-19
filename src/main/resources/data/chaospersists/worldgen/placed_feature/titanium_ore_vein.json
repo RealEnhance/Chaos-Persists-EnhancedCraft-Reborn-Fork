@@ -1,0 +1,8 @@
+{
+  "feature": "chaospersists:titanium_ore_vein",
+  "placement": [
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

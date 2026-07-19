@@ -1,0 +1,19 @@
+package com.astryxion.chaospersists.item;
+
+import net.minecraft.world.food.FoodProperties;
+import net.minecraft.world.item.Item;
+
+public class ItemStrawberry extends Item {
+
+    public ItemStrawberry(int nutrition, float saturation, boolean alwaysEdible) {
+        super(createProperties(nutrition, saturation, alwaysEdible));
+    }
+
+    private static Properties createProperties(int nutrition, float saturation, boolean alwaysEdible) {
+        FoodProperties.Builder builder = new FoodProperties.Builder().nutrition(nutrition).saturationMod(saturation);
+        if (alwaysEdible) {
+            builder.alwaysEat();
+        }
+        return new Properties().food(builder.build());
+    }
+}

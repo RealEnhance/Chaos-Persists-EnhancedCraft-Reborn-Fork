@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "chaospersists:block/leaves_apple"
+      }
+    }
+  ]
+}

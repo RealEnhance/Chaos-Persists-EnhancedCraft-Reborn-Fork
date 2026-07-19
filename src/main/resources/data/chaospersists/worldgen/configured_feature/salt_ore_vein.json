@@ -1,0 +1,16 @@
+{
+  "type": "chaospersists:ore_vein",
+  "config": {
+    "state": {
+      "Name": "chaospersists:oresalt"
+    },
+    "targets": [
+      "minecraft:stone_ore_replaceables",
+      "minecraft:deepslate_ore_replaceables"
+    ],
+    "stats_key": "Salt",
+    "deepslate_state": {
+      "Name": "chaospersists:oresaltdeepslate"
+    }
+  }
+}

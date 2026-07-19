@@ -1,0 +1,14 @@
+{
+  "type": "chaospersists:chaos_type",
+  "generator": {
+    "type": "chaospersists:sky_islands",
+    "wrapped_generator": {
+      "type": "minecraft:noise",
+      "settings": "chaospersists:chaos_islands_noise_gen",
+      "biome_source": {
+        "type": "minecraft:fixed",
+        "biome": "chaospersists:chaos_dimension"
+      }
+    }
+  }
+}

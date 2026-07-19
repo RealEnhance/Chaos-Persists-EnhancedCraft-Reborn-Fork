@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "ingredient": {
+    "item": "chaospersists:corndog_raw"
+  },
+  "result": "chaospersists:corndog_cooked",
+  "experience": 0.35,
+  "cookingtime": 100
+}

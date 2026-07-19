@@ -1,0 +1,9 @@
+{
+  "type": "chaospersists:add_mining_dimension_spawns",
+  "spawners": {
+    "type": "chaospersists:baby_dragon",
+    "weight": 5,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

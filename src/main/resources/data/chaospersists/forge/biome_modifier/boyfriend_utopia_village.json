@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "spawners": {
+    "type": "chaospersists:boyfriend",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  },
+  "biomes": [
+    "chaospersists:utopia",
+    "chaospersists:village_dimension"
+  ]
+}

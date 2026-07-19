@@ -1,0 +1,8 @@
+{
+  "feature": "chaospersists:salt_ore_vein",
+  "placement": [
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

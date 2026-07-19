@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "chaospersists:block/crystaltreelog_top",
+    "side": "chaospersists:block/crystaltreelog"
+  }
+}

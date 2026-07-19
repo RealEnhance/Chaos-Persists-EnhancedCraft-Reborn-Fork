@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": {
+    "item": "chaospersists:rawpeacock"
+  },
+  "result": "chaospersists:cookedpeacock",
+  "experience": 0.35,
+  "cookingtime": 600
+}

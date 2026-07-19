@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "chaospersists:blockamethyst",
+    "chaospersists:blockmobzillascale",
+    "chaospersists:blockruby",
+    "chaospersists:crystalpink_block",
+    "chaospersists:tigerseye_block",
+    "chaospersists:lavafoam",
+    "chaospersists:crystalcoal",
+    "chaospersists:oresalt",
+    "chaospersists:oreamethyst",
+    "chaospersists:oreruby",
+    "chaospersists:oresaltdeepslate",
+    "chaospersists:oreamethystdeepslate",
+    "chaospersists:orerubydeepslate"
+  ]
+}

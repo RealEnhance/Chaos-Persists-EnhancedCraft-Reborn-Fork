@@ -1,0 +1,16 @@
+{
+  "type": "chaospersists:ore_vein",
+  "config": {
+    "state": {
+      "Name": "chaospersists:oretitanium"
+    },
+    "targets": [
+      "minecraft:stone_ore_replaceables",
+      "minecraft:deepslate_ore_replaceables"
+    ],
+    "stats_key": "Titanium",
+    "deepslate_state": {
+      "Name": "chaospersists:oretitaniumdeepslate"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "chaospersists:blockuranium",
+    "chaospersists:blocktitanium",
+    "chaospersists:blockamethyst",
+    "chaospersists:blockmobzillascale",
+    "chaospersists:blockruby",
+    "chaospersists:crystalpink_block",
+    "chaospersists:tigerseye_block",
+    "chaospersists:lavafoam",
+    "chaospersists:oreuranium",
+    "chaospersists:oretitanium",
+    "chaospersists:crystalcoal",
+    "chaospersists:oresalt",
+    "chaospersists:crystalfairy",
+    "chaospersists:crystalrat",
+    "chaospersists:crystalstone",
+    "chaospersists:redanttroll",
+    "chaospersists:termitetroll",
+    "chaospersists:oreamethyst",
+    "chaospersists:oreruby",
+    "chaospersists:crystalcrystal",
+    "chaospersists:tigerseye",
+    "chaospersists:oreuraniumdeepslate",
+    "chaospersists:oretitaniumdeepslate",
+    "chaospersists:oresaltdeepslate",
+    "chaospersists:oreamethystdeepslate",
+    "chaospersists:orerubydeepslate"
+  ]
+}

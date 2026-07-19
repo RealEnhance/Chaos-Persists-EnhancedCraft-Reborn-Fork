@@ -1,0 +1,9 @@
+{
+  "type": "chaospersists:add_mining_dimension_spawns",
+  "spawners": {
+    "type": "chaospersists:pointysaurus",
+    "weight": 22,
+    "minCount": 4,
+    "maxCount": 8
+  }
+}

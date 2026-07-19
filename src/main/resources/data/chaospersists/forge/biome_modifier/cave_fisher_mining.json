@@ -1,0 +1,9 @@
+{
+  "type": "chaospersists:add_mining_dimension_spawns",
+  "spawners": {
+    "type": "chaospersists:cave_fisher",
+    "weight": 35,
+    "minCount": 4,
+    "maxCount": 8
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "chaospersists:add_mining_dimension_spawns",
+  "spawners": {
+    "type": "chaospersists:camarasaurus",
+    "weight": 4,
+    "minCount": 2,
+    "maxCount": 6
+  }
+}

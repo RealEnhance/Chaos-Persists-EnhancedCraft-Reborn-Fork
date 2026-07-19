@@ -1,0 +1,9 @@
+{
+  "type": "chaospersists:add_mining_dimension_spawns",
+  "spawners": {
+    "type": "chaospersists:velocity_raptor",
+    "weight": 4,
+    "minCount": 2,
+    "maxCount": 6
+  }
+}

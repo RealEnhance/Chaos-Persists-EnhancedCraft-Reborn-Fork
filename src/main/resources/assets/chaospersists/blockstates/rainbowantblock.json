@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "snowy=false": { "model": "chaospersists:block/rainbowantblock" },
+    "snowy=true": { "model": "chaospersists:block/rainbowantblock" }
+  }
+}

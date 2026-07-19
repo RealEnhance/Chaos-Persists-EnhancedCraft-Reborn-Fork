@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "chaospersists:crystalfairy",
+    "chaospersists:crystalrat",
+    "chaospersists:crystalstone",
+    "chaospersists:redanttroll",
+    "chaospersists:termitetroll"
+  ]
+}

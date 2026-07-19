@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "from": [ 11, 0, 1 ],
+      "to": [ 15, 4, 15 ],
+      "faces": {
+        "down":  { "uv": [ 11, 1, 15, 15 ], "texture": "#bottom" },
+        "up":    { "uv": [ 11, 1, 15, 15 ], "texture": "#top" },
+        "north": { "uv": [ 11, 15, 15, 11 ], "texture": "#side" },
+        "south": { "uv": [ 11, 15, 15, 11 ], "texture": "#side" },
+        "west":  { "uv": [ 11, 15, 15, 11 ], "texture": "#inner" },
+        "east":  { "uv": [ 11, 15, 15, 11 ], "texture": "#side" }
+      }
+    }
+  ],
+  "textures": {
+    "particle": "chaospersists:block/pizza_top",
+    "bottom": "chaospersists:block/pizza_bottom",
+    "top": "chaospersists:block/pizza_top",
+    "side": "chaospersists:block/pizza_side",
+    "inner": "chaospersists:block/pizza_inner"
+  }
+}
+

@@ -1,0 +1,381 @@
+{
+  "temperature": 0.7,
+  "downfall": 0.5,
+  "has_precipitation": true,
+  "effects": {
+    "fog_color": 12638463,
+    "sky_color": 7907327,
+    "water_color": 353825,
+    "water_fog_color": 329011,
+    "grass_color_modifier": "none"
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "chaospersists:vortex",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "chaospersists:nightmare",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "chaospersists:terrible_terror",
+        "weight": 4,
+        "minCount": 2,
+        "maxCount": 6
+      },
+      {
+        "type": "chaospersists:alosaurus",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:basilisk",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:bomb_omb",
+        "weight": 5,
+        "minCount": 2,
+        "maxCount": 8
+      },
+      {
+        "type": "chaospersists:robo_pounder",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "chaospersists:robo_gunner",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "chaospersists:robo_warrior",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "chaospersists:robo_sniper",
+        "weight": 2,
+        "minCount": 3,
+        "maxCount": 5
+      },
+      {
+        "type": "chaospersists:caterkiller",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:cave_fisher",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 5
+      },
+      {
+        "type": "chaospersists:creeping_horror",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 5
+      },
+      {
+        "type": "chaospersists:cryolophosaurus",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 5
+      },
+      {
+        "type": "chaospersists:crystal_urchin",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 5
+      },
+      {
+        "type": "chaospersists:dungeon_beast",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 5
+      },
+      {
+        "type": "chaospersists:emperor_scorpion",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:ender_knight",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "chaospersists:ender_reaper",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:hammerhead",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:hercules_beetle",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:jumpy_bug",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:molenoid",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:mothra",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:brutalfly",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:rat",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 10
+      },
+      {
+        "type": "chaospersists:rotator",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 3
+      },
+      {
+        "type": "chaospersists:scorpion",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 3
+      },
+      {
+        "type": "chaospersists:spit_bug",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 3
+      },
+      {
+        "type": "chaospersists:nastysaurus",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:trex",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:leaf_monster",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "chaospersists:pointysaurus",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "chaospersists:leonopteryx",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:mantis",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:lurking_terror",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:gamma_metroid",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:cloud_shark",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "chaospersists:bee",
+        "weight": 2,
+        "minCount": 2,
+        "maxCount": 4
+      }
+    ],
+    "creature": [
+      {
+        "type": "chaospersists:beaver",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "chaospersists:apple_cow",
+        "weight": 3,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "chaospersists:golden_apple_cow",
+        "weight": 2,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "chaospersists:enchanted_golden_apple_cow",
+        "weight": 1,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "chaospersists:bird",
+        "weight": 10,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "chaospersists:gold_fish",
+        "weight": 10,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "chaospersists:baryonyx",
+        "weight": 2,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "chaospersists:cassowary",
+        "weight": 2,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "chaospersists:peacock",
+        "weight": 2,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "chaospersists:stink_bug",
+        "weight": 3,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "chaospersists:ostrich",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "chaospersists:chipmunk",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "ambient": [
+      {
+        "type": "chaospersists:butterfly",
+        "weight": 20,
+        "minCount": 3,
+        "maxCount": 6
+      },
+      {
+        "type": "chaospersists:moth",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 5
+      },
+      {
+        "type": "chaospersists:firefly",
+        "weight": 15,
+        "minCount": 3,
+        "maxCount": 6
+      },
+      {
+        "type": "chaospersists:cliff_racer",
+        "weight": 30,
+        "minCount": 3,
+        "maxCount": 6
+      },
+      {
+        "type": "chaospersists:fairy",
+        "weight": 5,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "chaospersists:dragonfly",
+        "weight": 2,
+        "minCount": 2,
+        "maxCount": 4
+      }
+    ],
+    "water_creature": [],
+    "water_ambient": [],
+    "underground_water_creature": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

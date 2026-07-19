@@ -1,0 +1,952 @@
+{
+    "alien_hurt": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:alien_hurt"
+        ]
+    },
+    "alien_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:alien_death"
+        ]
+    },
+    "alien_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:alien_living"
+        ]
+    },
+    "alo_hurt": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:alo_hurt"
+        ]
+    },
+    "alo_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:alo_death"
+        ]
+    },
+    "alo_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:alo_living"
+        ]
+    },
+    "b_dark": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:b_dark"
+        ]
+    },
+    "b_death_boyfriend": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:b_death_boyfriend"
+        ]
+    },
+    "b_death_single": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:b_death_single1",
+            "chaospersists:b_death_single2"
+        ]
+    },
+    "b_fight": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:b_fight1",
+            "chaospersists:b_fight2",
+            "chaospersists:b_fight3",
+            "chaospersists:b_fight4",
+            "chaospersists:b_fight5",
+            "chaospersists:b_fight6",
+            "chaospersists:b_fight7"
+        ]
+    },
+    "b_happy": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:b_happy1",
+            "chaospersists:b_happy2",
+            "chaospersists:b_happy3",
+            "chaospersists:b_happy4",
+            "chaospersists:b_happy5",
+            "chaospersists:b_happy6",
+            "chaospersists:b_happy7",
+            "chaospersists:b_happy8"
+        ]
+    },
+    "b_hurt": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:b_hurt1",
+            "chaospersists:b_hurt2",
+            "chaospersists:b_hurt3",
+            "chaospersists:b_hurt4",
+            "chaospersists:b_hurt5",
+            "chaospersists:b_hurt6",
+            "chaospersists:b_hurt7",
+            "chaospersists:b_hurt8",
+            "chaospersists:b_hurt9",
+            "chaospersists:b_hurt10"
+        ]
+    },
+    "b_ow": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:b_ow1",
+            "chaospersists:b_ow2",
+            "chaospersists:b_ow3",
+            "chaospersists:b_ow4",
+            "chaospersists:b_ow5",
+            "chaospersists:b_ow6",
+            "chaospersists:b_ow7",
+            "chaospersists:b_ow8",
+            "chaospersists:b_ow9"
+        ]
+    },
+    "b_rain": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:b_rain1",
+            "chaospersists:b_rain2"
+        ]
+    },
+    "b_taunt": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:b_taunt1",
+            "chaospersists:b_taunt2",
+            "chaospersists:b_taunt3",
+            "chaospersists:b_taunt4",
+            "chaospersists:b_taunt5",
+            "chaospersists:b_taunt6"
+        ]
+    },
+    "b_thunder": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:b_thunder"
+        ]
+    },
+    "b_water": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:b_water1",
+            "chaospersists:b_water2"
+        ]
+    },
+    "b_woohoo": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:b_woohoo1",
+            "chaospersists:b_woohoo2",
+            "chaospersists:b_woohoo3",
+            "chaospersists:b_woohoo4"
+        ]
+    },
+    "basilisk_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:basilisk_living"
+        ]
+    },
+    "bb_happy": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:bb_happy1",
+            "chaospersists:bb_happy2",
+            "chaospersists:bb_happy3",
+            "chaospersists:bb_happy4",
+            "chaospersists:bb_happy5",
+            "chaospersists:bb_happy6"
+        ]
+    },
+    "beebuzz": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:beebuzz"
+        ]
+    },
+    "big_splat": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:big_splat"
+        ]
+    },
+    "birds": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:birds1",
+            "chaospersists:birds2",
+            "chaospersists:birds3",
+            "chaospersists:birds4",
+            "chaospersists:birds5",
+            "chaospersists:birds6",
+            "chaospersists:birds7",
+            "chaospersists:birds8",
+            "chaospersists:birds9",
+            "chaospersists:birds10",
+            "chaospersists:birds11",
+            "chaospersists:birds12",
+            "chaospersists:birds13",
+            "chaospersists:birds14",
+            "chaospersists:birds15",
+            "chaospersists:birds16",
+            "chaospersists:birds17",
+            "chaospersists:birds18",
+            "chaospersists:birds19",
+            "chaospersists:birds20",
+            "chaospersists:birds21",
+            "chaospersists:birds22",
+            "chaospersists:birds23"
+        ]
+    },
+    "caterkiller_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:caterkiller_death"
+        ]
+    },
+    "caterkiller_hit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:caterkiller_hit1",
+            "chaospersists:caterkiller_hit2",
+            "chaospersists:caterkiller_hit3",
+            "chaospersists:caterkiller_hit4"
+        ]
+    },
+    "caterkiller_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:caterkiller_living1",
+            "chaospersists:caterkiller_living2",
+            "chaospersists:caterkiller_living3",
+            "chaospersists:caterkiller_living4"
+        ]
+    },
+    "chain_rattles": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:chain_rattles"
+        ]
+    },
+    "chainsaw": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:chainsaw"
+        ]
+    },
+    "chainsawshort": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:chainsawshort"
+        ]
+    },
+    "clatter": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:clatter1",
+            "chaospersists:clatter2"
+        ]
+    },
+    "cliffracer": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:cliffracer"
+        ]
+    },
+    "creepinghorror_dead": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:creepinghorror_dead"
+        ]
+    },
+    "creepinghorror_hit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:creepinghorror_hit"
+        ]
+    },
+    "creepinghorror_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:creepinghorror_living"
+        ]
+    },
+    "cricket": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:cricket"
+        ]
+    },
+    "crunch": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:crunch"
+        ]
+    },
+    "cryo_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:cryo_death"
+        ]
+    },
+    "cryo_hurt": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:cryo_hurt"
+        ]
+    },
+    "cryo_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:cryo_living"
+        ]
+    },
+    "dbdead": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:dbdead"
+        ]
+    },
+    "dbhit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:dbhit1",
+            "chaospersists:dbhit2",
+            "chaospersists:dbhit3"
+        ]
+    },
+    "dragonfly_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:dragonfly_death"
+        ]
+    },
+    "dragonfly_hurt": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:dragonfly_hurt"
+        ]
+    },
+    "dragonfly_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:dragonfly_living"
+        ]
+    },
+    "duck_hurt": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:duck_hurt"
+        ]
+    },
+    "emperorscorpion_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:emperorscorpion_death"
+        ]
+    },
+    "fart": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:fart1",
+            "chaospersists:fart2",
+            "chaospersists:fart3",
+            "chaospersists:fart4",
+            "chaospersists:fart5",
+            "chaospersists:fart6",
+            "chaospersists:fart7",
+            "chaospersists:fart8",
+            "chaospersists:fart9"
+        ]
+    },
+    "frog": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:frog1",
+            "chaospersists:frog2"
+        ]
+    },
+    "ghost_sound": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:ghost_sound"
+        ]
+    },
+    "glassdead": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:glassdead1",
+            "chaospersists:glassdead2"
+        ]
+    },
+    "glasshit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:glasshit1",
+            "chaospersists:glasshit2",
+            "chaospersists:glasshit3",
+            "chaospersists:glasshit4",
+            "chaospersists:glasshit5"
+        ]
+    },
+    "godzilla_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:godzilla_death"
+        ]
+    },
+    "godzilla_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:godzilla_living"
+        ]
+    },
+    "hammerhead_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:hammerhead_death"
+        ]
+    },
+    "hammerhead_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:hammerhead_living1",
+            "chaospersists:hammerhead_living2"
+        ]
+    },
+    "hercules_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:hercules_death"
+        ]
+    },
+    "hover": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:hover1",
+            "chaospersists:hover2",
+            "chaospersists:hover3",
+            "chaospersists:hover4",
+            "chaospersists:hover5",
+            "chaospersists:hover6"
+        ]
+    },
+    "king_hit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:king_hit"
+        ]
+    },
+    "king_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:king_living"
+        ]
+    },
+    "kraken_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:kraken_living"
+        ]
+    },
+    "kyuubi_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:kyuubi_living"
+        ]
+    },
+    "leaves_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:leaves_death"
+        ]
+    },
+    "leaves_hit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:leaves_hit"
+        ]
+    },
+    "leon_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:leon_death"
+        ]
+    },
+    "leon_hit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:leon_hit1",
+            "chaospersists:leon_hit2",
+            "chaospersists:leon_hit3"
+        ]
+    },
+    "leon_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:leon_living"
+        ]
+    },
+    "little_splat": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:little_splat"
+        ]
+    },
+    "lurkinghorror_dead": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:lurkinghorror_dead"
+        ]
+    },
+    "lurkinghorror_hit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:lurkinghorror_hit"
+        ]
+    },
+    "lurkinghorror_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:lurkinghorror_living"
+        ]
+    },
+    "molenoid_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:molenoid_death"
+        ]
+    },
+    "molenoid_hit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:molenoid_hit1",
+            "chaospersists:molenoid_hit2",
+            "chaospersists:molenoid_hit3",
+            "chaospersists:molenoid_hit4",
+            "chaospersists:molenoid_hit5",
+            "chaospersists:molenoid_hit6"
+        ]
+    },
+    "molenoid_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:molenoid_living1",
+            "chaospersists:molenoid_living2",
+            "chaospersists:molenoid_living3"
+        ]
+    },
+    "mosquito": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:mosquito"
+        ]
+    },
+    "mothrawings": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:mothrawings1",
+            "chaospersists:mothrawings2",
+            "chaospersists:mothrawings3"
+        ]
+    },
+    "o_dark": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:o_dark"
+        ]
+    },
+    "o_death_girlfriend": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:o_death_girlfriend"
+        ]
+    },
+    "o_death_single": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:o_death_single"
+        ]
+    },
+    "o_fight": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:o_fight1",
+            "chaospersists:o_fight2",
+            "chaospersists:o_fight3",
+            "chaospersists:o_fight4",
+            "chaospersists:o_fight5",
+            "chaospersists:o_fight6",
+            "chaospersists:o_fight7"
+        ]
+    },
+    "o_happy": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:o_happy1",
+            "chaospersists:o_happy2",
+            "chaospersists:o_happy3",
+            "chaospersists:o_happy4",
+            "chaospersists:o_happy5",
+            "chaospersists:o_happy6",
+            "chaospersists:o_happy7"
+        ]
+    },
+    "o_hurt": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:o_hurt1",
+            "chaospersists:o_hurt2",
+            "chaospersists:o_hurt3",
+            "chaospersists:o_hurt4",
+            "chaospersists:o_hurt5",
+            "chaospersists:o_hurt6",
+            "chaospersists:o_hurt7",
+            "chaospersists:o_hurt8",
+            "chaospersists:o_hurt9"
+        ]
+    },
+    "o_ow": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:o_ow1",
+            "chaospersists:o_ow2",
+            "chaospersists:o_ow3",
+            "chaospersists:o_ow4",
+            "chaospersists:o_ow5",
+            "chaospersists:o_ow6",
+            "chaospersists:o_ow7",
+            "chaospersists:o_ow8"
+        ]
+    },
+    "o_rain": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:o_rain"
+        ]
+    },
+    "o_taunt": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:o_taunt1",
+            "chaospersists:o_taunt2",
+            "chaospersists:o_taunt3",
+            "chaospersists:o_taunt4"
+        ]
+    },
+    "o_thunder": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:o_thunder"
+        ]
+    },
+    "o_water": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:o_water1",
+            "chaospersists:o_water2"
+        ]
+    },
+    "o_woohoo": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:o_woohoo1",
+            "chaospersists:o_woohoo2",
+            "chaospersists:o_woohoo3",
+            "chaospersists:o_woohoo4"
+        ]
+    },
+    "peacockdead": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:peacockdead"
+        ]
+    },
+    "peacockhit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:peacockhit"
+        ]
+    },
+    "peacocklive": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:peacocklive"
+        ]
+    },
+    "pitchblack_dead": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:pitchblack_dead"
+        ]
+    },
+    "pitchblack_hit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:pitchblack_hit"
+        ]
+    },
+    "pitchblack_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:pitchblack_living"
+        ]
+    },
+    "ratdead": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:ratdead1",
+            "chaospersists:ratdead2",
+            "chaospersists:ratdead3"
+        ]
+    },
+    "rathit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:rathit"
+        ]
+    },
+    "ratlive": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:ratlive"
+        ]
+    },
+    "roar": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:roar1",
+            "chaospersists:roar2",
+            "chaospersists:roar3",
+            "chaospersists:roar4",
+            "chaospersists:roar5",
+            "chaospersists:roar6"
+        ]
+    },
+    "robot_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:robot_death1",
+            "chaospersists:robot_death2",
+            "chaospersists:robot_death3",
+            "chaospersists:robot_death4",
+            "chaospersists:robot_death5"
+        ]
+    },
+    "robot_hurt": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:robot_hurt1",
+            "chaospersists:robot_hurt2",
+            "chaospersists:robot_hurt3",
+            "chaospersists:robot_hurt4",
+            "chaospersists:robot_hurt5",
+            "chaospersists:robot_hurt6",
+            "chaospersists:robot_hurt7",
+            "chaospersists:robot_hurt8"
+        ]
+    },
+    "robot_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:robot_living1",
+            "chaospersists:robot_living2",
+            "chaospersists:robot_living3",
+            "chaospersists:robot_living4"
+        ]
+    },
+    "robot1_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:robot1_death"
+        ]
+    },
+    "robotspider": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:robotspider1",
+            "chaospersists:robotspider2",
+            "chaospersists:robotspider3",
+            "chaospersists:robotspider4",
+            "chaospersists:robotspider5",
+            "chaospersists:robotspider6",
+            "chaospersists:robotspider7",
+            "chaospersists:robotspider8",
+            "chaospersists:robotspider9",
+            "chaospersists:robotspider10",
+            "chaospersists:robotspider11"
+        ]
+    },
+    "robotspidermount": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:robotspidermount"
+        ]
+    },
+    "rubybird": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:rubybird"
+        ]
+    },
+    "scorpion_attack": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:scorpion_attack"
+        ]
+    },
+    "scorpion_hit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:scorpion_hit"
+        ]
+    },
+    "scorpion_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:scorpion_living"
+        ]
+    },
+    "seamonster_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:seamonster_death"
+        ]
+    },
+    "seamonster_hit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:seamonster_hit"
+        ]
+    },
+    "seamonster_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:seamonster_living1",
+            "chaospersists:seamonster_living2"
+        ]
+    },
+    "seaviper_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:seaviper_death"
+        ]
+    },
+    "seaviper_hit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:seaviper_hit1",
+            "chaospersists:seaviper_hit2",
+            "chaospersists:seaviper_hit3"
+        ]
+    },
+    "seaviper_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:seaviper_living"
+        ]
+    },
+    "squid_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:squid_death1",
+            "chaospersists:squid_death2"
+        ]
+    },
+    "squid_hurt": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:squid_hurt1",
+            "chaospersists:squid_hurt2",
+            "chaospersists:squid_hurt3",
+            "chaospersists:squid_hurt4"
+        ]
+    },
+    "terribleterror_dead": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:terribleterror_dead"
+        ]
+    },
+    "terribleterror_hit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:terribleterror_hit"
+        ]
+    },
+    "terribleterror_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:terribleterror_living"
+        ]
+    },
+    "trex_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:trex_death"
+        ]
+    },
+    "trex_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:trex_living"
+        ]
+    },
+    "triffid_dead": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:triffid_dead"
+        ]
+    },
+    "triffid_hit": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:triffid_hit"
+        ]
+    },
+    "triffid_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:triffid_living"
+        ]
+    },
+    "vortexlive": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:vortexlive"
+        ]
+    },
+    "waterdragon_death": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:waterdragon_death"
+        ]
+    },
+    "waterdragon_hurt": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:waterdragon_hurt1",
+            "chaospersists:waterdragon_hurt2",
+            "chaospersists:waterdragon_hurt3"
+        ]
+    },
+    "wtf_hurt": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:wtf_hurt"
+        ]
+    },
+    "wtf_living": {
+        "category": "master",
+        "sounds": [
+            "chaospersists:wtf_living"
+        ]
+    }
+}

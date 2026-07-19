@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": {
+    "item": "chaospersists:crabmeat"
+  },
+  "result": "chaospersists:cookedcrabmeat",
+  "experience": 0.35,
+  "cookingtime": 600
+}

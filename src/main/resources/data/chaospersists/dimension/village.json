@@ -1,0 +1,20 @@
+{
+  "type": "chaospersists:village_type",
+  "generator": {
+    "type": "chaospersists:plains_terrain",
+    "noise_generation_settings": "chaospersists:chaos_plains_noise_gen",
+    "depth": 0.125,
+    "scale": 0.05,
+    "density_factor": 2.5,
+    "density_offset": -1.25,
+    "terrain_height_offset": 55,
+    "wrapped_generator": {
+      "type": "minecraft:noise",
+      "settings": "chaospersists:chaos_plains_noise_gen",
+      "biome_source": {
+        "type": "minecraft:fixed",
+        "biome": "chaospersists:village_dimension"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "feature": "chaospersists:uranium_ore_vein",
+  "placement": [
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

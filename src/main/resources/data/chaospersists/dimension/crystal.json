@@ -1,0 +1,21 @@
+{
+  "type": "chaospersists:crystal_type",
+  "generator": {
+    "type": "chaospersists:plains_terrain",
+    "noise_generation_settings": "chaospersists:chaos_crystal_plains_noise_gen",
+    "depth": 0.1,
+    "scale": 1.35,
+    "density_factor": 2.75,
+    "density_offset": -1.25,
+    "terrain_height_offset": 58,
+    "noise_strength": 1.6,
+    "wrapped_generator": {
+      "type": "minecraft:noise",
+      "settings": "chaospersists:chaos_crystal_plains_noise_gen",
+      "biome_source": {
+        "type": "minecraft:fixed",
+        "biome": "chaospersists:crystal_dimension"
+      }
+    }
+  }
+}

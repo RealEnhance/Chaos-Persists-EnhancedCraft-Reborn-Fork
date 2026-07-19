@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "chaospersists:block/moth_plant3"
+  }
+}

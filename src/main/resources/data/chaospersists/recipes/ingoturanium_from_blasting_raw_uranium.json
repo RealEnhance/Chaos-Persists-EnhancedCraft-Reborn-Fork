@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": {
+    "item": "chaospersists:raw_uranium"
+  },
+  "result": "chaospersists:ingoturanium",
+  "experience": 0.7,
+  "cookingtime": 100
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building_blocks",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "chaospersists:raw_titanium"
+    }
+  },
+  "result": {
+    "item": "chaospersists:raw_titanium_block",
+    "count": 1
+  }
+}
